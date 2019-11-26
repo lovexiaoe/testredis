@@ -1,0 +1,2 @@
+# testredis
+redis -jedis-examples
